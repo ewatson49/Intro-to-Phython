@@ -29,3 +29,18 @@ False
 0 # represents false 
 True
 1 # represents true 
+
+# Variable is a type of container or mask for data 
+# variables values can change but the variable name will stay the same 
+ # userName = 'laj'
+ # emailAdress = 'ewtason489@boyslatin.net
+ # profilpicture = 'profile.png'
+# phonenumber 
+
+
+# if the imput function is used for passing in data  
+input('what is your name')
+print('name')
+
+# the print function is for passing data out from the program
+print('hello from python')
