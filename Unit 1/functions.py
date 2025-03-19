@@ -50,3 +50,11 @@ def clonemachine(name):
 
 clonemachine('laj')
 
+def doorEntranceCode(userpin):
+    pincode = "get_this_money"
+    if userpin == pincode :
+        print("access granted. Door is unlocked")
+    else:
+        print("access Denied, Door will remain locked")
+
+doorEntranceCode("get_this_money")
